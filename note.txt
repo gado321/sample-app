@@ -6,6 +6,7 @@ https://emailrep.io/
 infoga
 https://molfar.com/en/blog/how-to-find-information-on-anyone-the-best-osint-tools-for-people-search
 https://blackarch.org/recon.html
+https://github.com/nateahess/awesome-recon-tools
 
 
 shodanpass: L7dFZnpHM8Bx
