@@ -1,0 +1,40 @@
+https://osint.industries/
+https://emailrep.io/
+emailharvester
+spiderfoot
+https://emailrep.io/
+infoga
+https://molfar.com/en/blog/how-to-find-information-on-anyone-the-best-osint-tools-for-people-search
+https://blackarch.org/recon.html
+
+
+shodanpass: L7dFZnpHM8Bx
+api key: HAMCCrmIjf5as4V3XZNSDvbLZmTRd6Gt
+virus total: 1b983e495f39f038ffafcc68d30abad6aaf4f78678007389fa7bad3988d6d87a
+zoomeye: 3368E810-f5D5-9EB6e-3D20-4281d3d272f
+cencys: 2AgtGhJxIhCPYiWMbW0axCQMB2MbDBuu 
+
+
+┌──(kali㉿kali)-[~]
+└─$ nslookup momo.vn         
+Server:         192.0.2.2
+Address:        192.0.2.2#53
+
+Non-authoritative answer:
+Name:   momo.vn
+Address: 103.161.22.130
+
+                                                                                                                                                                                                            
+┌──(kali㉿kali)-[~]
+└─$ nslookup momoapp.vn
+;; communications error to 192.0.2.2#53: timed out
+Server:         192.0.2.2
+Address:        192.0.2.2#53
+
+Non-authoritative answer:
+Name:   momoapp.vn
+Address: 151.101.65.195
+Name:   momoapp.vn
+Address: 151.101.1.195
+
+
